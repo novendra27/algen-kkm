@@ -1,0 +1,5 @@
+# Ignore development environment files
+development/
+
+# Ignore virtual environment directory
+.venv/
