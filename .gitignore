@@ -10,3 +10,8 @@ data/
 # Ignore folder for Claude AI
 .claude/
 
+# Ignore Python cache files
+__pycache__/
+
+# Ignore folder for grouping results (crucial data)
+results/grouping_results
