@@ -1,0 +1,11 @@
+Phase,Scenario_Name,Run,PopSize,Generation,Cr,Mr,Fitness
+Phase 2: Generation Test,S01_Gen100,1,10,100,0.5,0.5,0.9039473684210526
+Phase 2: Generation Test,S01_Gen100,2,10,100,0.5,0.5,0.8934210526315789
+Phase 2: Generation Test,S01_Gen100,3,10,100,0.5,0.5,0.881578947368421
+Phase 2: Generation Test,S01_Gen100,4,10,100,0.5,0.5,0.8960526315789473
+Phase 2: Generation Test,S01_Gen100,5,10,100,0.5,0.5,0.8934210526315789
+Phase 2: Generation Test,S01_Gen100,6,10,100,0.5,0.5,0.8921052631578947
+Phase 2: Generation Test,S01_Gen100,7,10,100,0.5,0.5,0.8921052631578947
+Phase 2: Generation Test,S01_Gen100,8,10,100,0.5,0.5,0.8842105263157894
+Phase 2: Generation Test,S01_Gen100,9,10,100,0.5,0.5,0.8960526315789473
+Phase 2: Generation Test,S01_Gen100,10,10,100,0.5,0.5,0.8907894736842106
