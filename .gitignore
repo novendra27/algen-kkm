@@ -3,3 +3,12 @@ development/
 
 # Ignore virtual environment directory
 .venv/
+
+# Ignore folder data (crucial for training)
+data/
+
+# Ignore folder for Claude AI
+.claude/
+
+# Ignore Python cache files
+__pycache__/
